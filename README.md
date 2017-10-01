@@ -1,8 +1,11 @@
 # YouToBe_subtitling_format
 
+base on python 3.5
+
 The code can be formatted into readable articles with rich text and time subtitles
 该代码可以把包含富文本和时间的字幕文件，格式化成可以阅读的文章
 
+When we download the subtitles, he is like this
 当我们下载字幕后 ，他是这样子的
 ``` html
   1
@@ -34,7 +37,8 @@ The code can be formatted into readable articles with rich text and time subtitl
   <font color="#CCCCCC">sponsor is actually something</font><font color="#E5E5E5"> that I</font>
 ```
 
-运行脚本之后 他是
+After running this script， he is like this
+运行脚本之后 他是这样子的
 ``` txt
     this video will go through all the
 
@@ -50,3 +54,7 @@ The code can be formatted into readable articles with rich text and time subtitl
 
     sponsor is actually something that I
 ```
+
+
+
+
