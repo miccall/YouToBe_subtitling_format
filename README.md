@@ -2,7 +2,7 @@
 
 base on python 3.5
 
-The code can be formatted into readable articles with rich text and time subtitles
+The code can formatted the readable articles from rich text and time subtitles
 该代码可以把包含富文本和时间的字幕文件，格式化成可以阅读的文章
 
 When we download the subtitles, he is like this
